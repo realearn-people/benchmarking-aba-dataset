@@ -1,0 +1,623 @@
+ID,Topics,Text_answer,NegPos_answer,NegPos_output,Text_output,Cosine_Similarity,IsCorrect
+1,Food,"Tasty food on the first floor, comfortable restaurant for both cozy evenings and calm work to escape the heat in the midday",Positive,Positive,"Tasty food on the first floor, comfortable restaurant for both cozy evenings and calm work to escape the heat in the midday.",1.0000000000000002,True
+1,Location,"close to the airport, to very clean beach.",Positive,Positive,"close to the airport, to very clean beach.",1.0000000000000002,True
+1,Room,,,Positive,"New, comfortable apartments.",0.0,False
+1,Staff,Staff is extremely helpful and easy to communicate with ,Positive,Positive,Staff is extremely helpful and easy to communicate with.,1.0000000000000002,True
+2,Facility,,,Positive,"I like hotels with a family atmosphere, cozy and not big.",0.0,False
+2,Food,"Also, the breakfast was amazing, fresh and handmade! Especially vegetarian version with humus. The cook is great, and all staff was very kind and helpful.",Positive,Positive,"the breakfast was amazing, fresh and handmade! Especially vegetarian version with humus. The cook is great.",0.879662763436634,True
+2,Room,,,Negative,although not big.,0.0,False
+2,Room,"The room was very clean, well decorated and modern, although not big.",Positive,Positive,"The room was very clean, well decorated and modern.",0.7750333191252352,True
+2,Staff,The staff was very nice and helpful!,Positive,Positive,The staff was very nice and helpful. all staff was very kind and helpful.,0.8686560856610956,True
+3,Location,the location is great and near the airport. bus stop is very close.,Positive,Positive,the location is great and near the airport. bus stop is very close.,1.0000000000000002,True
+4,Price,Great Quality/price,Positive,Positive,Great Quality/price,1.0000000000000002,True
+4,Room,Clean,Positive,Positive,Clean,1.0,True
+4,Staff,Great stuff,Positive,Positive,Great stuff,1.0000000000000002,True
+5,Location,in a very convenient location.  An easy stroll to numerous nice restaurants and a great beach.,Positive,Positive,in a very convenient location. An easy stroll to numerous nice restaurants and a great beach.,1.0,True
+5,Room,Clean and modern with very comfortable beds,Positive,Positive,Clean and modern with very comfortable beds.,1.0,True
+6,Room,The room was exceptionally clean with a really comfortable bed,Positive,Positive,The room was exceptionally clean with a really comfortable bed.,1.0,True
+8,Facility,,,Positive,renovated,0.0,False
+8,Location,nice location,Positive,Positive,nice location,1.0,True
+8,Staff,lovely personal,Positive,Positive,lovely personal,1.0000000000000002,True
+9,Food,,,Negative,couldn't eat breakfast due to dietary restrictions,0.0,False
+9,Location,,,Positive,nearby bus takes to town-centre (and airport by the way so no need for 21 euro taxi),0.0,False
+9,Price,,,Positive,no need for 21 euro taxi,0.0,False
+9,Staff,very helpful host showed us how nearby bus takes to town-cntre ,Positive,Positive,very helpful host showed us how nearby bus takes to town-centre (and airport by the way so no need for 21 euro taxi),0.6414998175872453,False
+10,Location,quiet location,Positive,Positive,quiet location.,1.0000000000000002,True
+10,Room,Great modern room comfortable bed,Positive,Positive,Great modern room comfortable bed.,1.0000000000000002,True
+11,Food,Oh yeah the food is great to and very reasonable prices ..,Positive,Positive,the food is great too and very reasonable prices.,0.6972196067854275,False
+11,Location,The bus stop which goes to and from the airport as well as the town center is a minutes walk away and just 2 euros,Positive,Positive,The bus stop which goes to and from the airport as well as the town center is a minutes walk away and just 2 euros.,1.0000000000000002,True
+11,Price,,,Positive,very reasonable prices.,0.0,False
+11,Room,The rooms are spacious and clean great to stay .. I even got an upgrade which is always so nice.,Positive,Positive,The rooms are spacious and clean great to stay. I even got an upgrade which is always so nice.,1.0,True
+11,Staff,"The staff here are amazing beyond expectations..*****
+ Maria at reception is just great she really took time to explain where to go how to get there and so helpful ... 🙏
+ Richard the chef this guy is like the friendliest guy ever, such a nice guy with a permanent. Even the cleaning lady is so friendly and so nice to talk to. The owners are also great it's like a real caring family set up ...",Positive,Positive,"The staff here are amazing beyond expectations., Maria at reception is just great she really took time to explain where to go how to get there and so helpful., Richard the chef this guy is like the friendliest guy ever, such a nice guy with a permanent smile., Even the cleaning lady is so friendly and so nice to talk to., The owners are also great it's like a real caring family set up.",0.9924091107828402,True
+12,Food,The breakfast was lovely with room service too.,Positive,Positive,The breakfast was lovely with room service too.,1.0,True
+12,Room,Very clean and comfortable.,Positive,Positive,Very clean and comfortable.,1.0,True
+12,Staff,The staff were exceptional. So helpful and friendly. Went out of their way for us.,Positive,Positive,The staff were exceptional. So helpful and friendly. Went out of their way for us.,1.0000000000000002,True
+13,Location,"Short drive to the airport and very well located, just a short walk from the promenade, coffee shops restaurants.",Positive,Positive,"Short drive to the airport and very well located, just a short walk from the promenade, coffee shops restaurants.",1.0000000000000002,True
+13,Room,"The rooms are lovely and new, very clean and comfortable. The mattress was to my taste.",Positive,Positive,"The rooms are lovely and new, very clean and comfortable. The mattress was to my taste.",1.0000000000000002,True
+13,Staff,"The staff are so welcoming, we felt like staying with family.",Positive,Positive,"The staff are so welcoming, we felt like staying with family.",0.9999999999999999,True
+14,Facility,,,Negative,"you have a feeling that people are living in the hotel, rather than staying at a hotel.",0.0,False
+14,Location,,,Negative,You can hear the airplanes coming and leaving from the airport all the time.,0.0,False
+14,Location,We wanted a hotel for a night that is close to the airport and this hotel did that purpose more than fair. There are some restaurants and bars next to the beach just 10min of walking distance from the hotel.,Positive,Positive,"close to the airport and this hotel did that purpose more than fair., There are some restaurants and bars next to the beach just 10min of walking distance from the hotel.",0.9124065006839951,True
+14,Room,You can hear the airplanes coming and leaving from the airport all the time,Negative,,,0.0,False
+14,Staff,The receptionist didn't speak English properly,Negative,Negative,The receptionist didn't speak English properly.,1.0,True
+15,Location,,,Negative,it is a bit on the edge of Larnaca,0.0,False
+15,Location,"it was reasonably close to the Airport for an early morning flight, yet could have a stroll along the nearby beach.",Positive,Positive,"reasonably close to the Airport for an early morning flight, yet could have a stroll along the nearby beach., with frequent busses to the centre.",0.8430181413483431,True
+15,Staff,,,Positive,The staff make it - particularly reception and the dining room.,0.0,False
+16,Food,"The restaurant downstairs is amazing- the food there is very very tasty and made with a lot of care- they care a lot about the details: olive oil galore, herbs- absolutely delicious!",Positive,Positive,"The restaurant downstairs is amazing- the food there is very very tasty and made with a lot of care- they care a lot about the details: olive oil galore, herbs- absolutely delicious!",1.0,True
+16,Room,"I liked the rooms- they are spacious, clean, the window view is nice too.",Positive,Positive,"I liked the rooms- they are spacious, clean, the window view is nice too.",1.0000000000000002,True
+17,Room,Our room had a balcony with great view of the sea and surrounding area.,Positive,Positive,Our room had a balcony with great view of the sea and surrounding area.,1.0,True
+17,Staff,The owner and staff were exceptionally friendly and supportive and helped with all our wishes.,Positive,Positive,The owner and staff were exceptionally friendly and supportive and helped with all our wishes.,1.0000000000000002,True
+18,Facility,,,Positive,"very bright, nice seating areas inside and out.",0.0,False
+18,Food,Meals well prepared and good value. ,Positive,Positive,Meals well prepared and good value.,1.0000000000000002,True
+18,Location,Bus every 20 minutes to the centre of Larnaka.,Positive,Positive,Bus every 20 minutes to the centre of Larnaka.,1.0000000000000002,True
+18,Price,,,Negative,"Nothing, considering the price",0.0,False
+18,Staff,"extremely friendly reception and dining staff,",Positive,Positive,extremely friendly reception and dining staff,1.0,True
+19,Location,Close to airport,Positive,Positive,Close to airport,1.0000000000000002,True
+20,Location,location,Positive,Positive,location,1.0,True
+20,Room,clean,Positive,,,0.0,False
+20,Staff,friendly stuff,Positive,Positive,friendly stuff,1.0000000000000002,True
+21,Food,Everything from breakfast to dinner is absolutely delicious.,Positive,Positive,Richard (the chef) is personally buying super fresh food for the restaurant. Everything from breakfast to dinner is absolutely delicious.,0.6365774148337976,False
+21,Room,The hotel is impressive how clean nice and comfortable it is,Positive,Positive,The hotel is impressive how clean nice and comfortable it is.,1.0,True
+21,Staff,what will bring me back is the staff and the owners. Richard (the chef) is personally buying super fresh food for the restaurant. The owners have been super kind to me :),Positive,Positive,what will bring me back is the staff and the owners. The owners have been super kind to me :),0.8419243581778054,True
+22,Facility,,,Positive,The restaurant area is nice.,0.0,False
+22,Food,"Ordered pizza one night and was not great, ",Negative,Negative,"Ordered pizza one night and was not great, too stodgy.",0.8396974206386578,True
+22,Food,The restaurant area is nice and the staff very accomodating.,Positive,Positive,I'm sure other food is better.,0.05793572168881365,False
+22,Room,"although might have needed another set of drawers if there were two of us. Fridge could have been put on beforehand, the shower took a while to get hot,",Negative,Negative,"might have needed another set of drawers if there were two of us., Fridge could have been put on beforehand so it was cold., the shower took a while to get hot, had to have a cold shower one morning as i needed to get out early.",0.8121492248187193,True
+22,Room,"Room was perfect, looked new, clean shiny tiled floors and bathroom tiles, just every inch perfect and clean. Bed was really comfortable, lots of room for me to put my things",Positive,Positive,"Room was perfect, looked new, clean shiny tiled floors and bathroom tiles, just every inch perfect and clean. Bed was really comfortable, lots of room for me to put my things., When you left it running for around 5 mins it got warm and was a good shower.",0.8227117574773223,True
+22,Staff,,,Positive,the staff very accommodating.,0.0,False
+23,Room,the beds were very comfortable,Positive,Positive,the beds were very comfortable,1.0000000000000002,True
+24,Room,I loved the mattress!!!,Positive,Positive,I loved the mattress!!!,1.0000000000000002,True
+25,Room,Clean and quiet,Positive,Positive,Clean and quiet,1.0,True
+26,Food,There is a great restaurant inside where the food is good and not to pricey. ,Positive,Positive,There is a great restaurant inside where the food is good and not too pricey.,0.9458827995222132,True
+26,Location,The hotel is 5 minutes from the beach and the location is also near the lake.,Positive,Positive,The hotel is 5 minutes from the beach and the location is also near the lake.,1.0000000000000004,True
+26,Price,,,Positive,not too pricey,0.0,False
+26,Room,"The rooms are a good size and are laid out very well with a good size bathroom
+ The room also has a great sized balcony to take a tea/coffee and 
+ chill",Positive,Positive,"The rooms are a good size and are laid out very well with a good size bathroom., The room also has a great sized balcony to take a tea/coffee and chill.",1.0,True
+26,Staff,The staff are super wonderful really friendly all of them the receptionist Maria is so nice she's amazing ,Positive,Positive,The staff are super wonderful really friendly all of them the receptionist Maria is so nice she's amazing.,1.0,True
+27,Location,perfect for overnight stay before flying from Larnaca Airport.,Positive,Positive,perfect for overnight stay before flying from Larnaca Airport,1.0000000000000002,True
+27,Room,"so comfortable, clean",Positive,Positive,"so comfortable, clean",1.0,True
+27,Staff,friendly staff,Positive,Positive,friendly staff,1.0,True
+28,Location,Surrounding buildings are under construction and poorly lit.,Negative,Negative,Surrounding buildings are under construction and poorly lit.,1.0000000000000002,True
+28,Staff,Staff is very polite and caring. ,Positive,Positive,Staff is very polite and caring.,1.0000000000000002,True
+29,Room,,,Negative,I would have liked an ironing board in the room.,0.0,False
+29,Room,very clean functional rooms,Positive,Positive,very clean functional rooms.,1.0000000000000002,True
+29,Staff,lovely and very helpful staff.,Positive,Positive,lovely and very helpful staff.,1.0000000000000002,True
+30,Location,Great location for restaurants. Great location for a short drive to the airport.,Positive,Positive,"Great location for restaurants., Great location for a short drive to the airport.",1.0000000000000002,True
+30,Room,The room was spotless.,Positive,Positive,The room was spotless.,1.0,True
+30,Staff,Staff were lovely. Service was great.,Positive,Positive,Staff were lovely.,0.6912512373262951,False
+31,Food,Great restaurant beneath the hotel - food excellent & reasonably priced. ,Positive,Positive,Great restaurant beneath the hotel - food excellent & reasonably priced,1.0,True
+31,Location,Very close to Mackenzy beach & Larnaca airport.,Positive,Positive,Very close to Mackenzy beach & Larnaca airport,1.0000000000000002,True
+31,Price,,,Positive,reasonably priced,0.0,False
+31,Room,"Clean, comfortable,",Positive,Positive,"Clean, comfortable",1.0,True
+31,Staff,friendly staff.,Positive,Positive,friendly staff,1.0,True
+32,Room,The bed was great. Rooms clean. ,Positive,Positive,"The bed was great., Rooms clean.",1.0000000000000002,True
+32,Staff,Staff were so kind.,Positive,Positive,Staff were so kind.,1.0000000000000002,True
+33,Facility,,,Positive,choose the garden view apartments,0.0,False
+33,Food,Option to have a good breakfast within the hotel save your time.,Positive,Positive,Option to have a good breakfast within the hotel save your time.,1.0000000000000002,True
+33,Room,Little bit noisy during evening time from the street side.,Negative,Negative,Little bit noisy during evening time from the street side.,1.0000000000000002,True
+33,Room,super clean room with modern furniture all together make your stay max comfortable,Positive,Positive,"super clean room with modern furniture all together make your stay max comfortable., just close the windows and start the air conditioning",0.7705698069928231,True
+33,Staff,Very helpful staff,Positive,Positive,Very helpful staff.,1.0,True
+34,Facility,,,Positive,welcoming,0.0,False
+34,Location,location,Positive,Positive,location,1.0,True
+34,Price,value for money ,Positive,Positive,value for money,1.0,True
+34,Room,,,Negative,more hooks on walls for towels etc.,0.0,False
+34,Staff,welcoming ,Positive,,,0.0,False
+35,Room,"There was a problem with heating water at that time and we can understand, but eventually we couldn't manage to have a proper shower with hot water.",Negative,Negative,"There was a problem with heating water at that time and we can understand, but eventually we couldn't manage to have a proper shower with hot water.",1.0,True
+36,Facility,,,Negative,"there was no opening and closing times of the bar on display., not showing opening times.",0.0,False
+36,Food,We may have missed it but there was no opening and closing times of the bar on display.,Negative,,,0.0,False
+36,Food,"The chef was very polite, and his food was excellent, he had passion and it showed in his presentation.",Positive,Positive,"his food was excellent, he had passion and it showed in his presentation.",0.9161132772109326,True
+36,Location,"we were surprised at the location in a small side street,",Negative,,,0.0,False
+36,Location,but it was only a 10-minute walk to the sea front.,Positive,Positive,it was only a 10-minute walk to the sea front.,0.9560830777032291,True
+36,Room,The room was smaller than I expected but as we were only there a few days it was acceptable. I am very fussy about beds and pillows,Negative,Negative,The room was smaller than I expected but as we were only there a few days it was acceptable.,0.8292965652699348,True
+36,Room,"I had no problem as they were very clean, and the bed was really comfortable.",Positive,Positive,"I am very fussy about beds and pillows, but I had no problem as they were very clean, and the bed was really comfortable.",0.7472777124452492,True
+36,Staff,The receptionist on check in was very good and explained the information very clearly to us.,Positive,Positive,"The receptionist on check in was very good and explained the information very clearly to us., The chef was very polite, and his food was excellent, he had passion and it showed in his presentation.",0.6813976157726819,False
+37,Food,food was good too!,Positive,Positive,food was good too,0.9999999999999999,True
+37,Location,,,Positive,The bus to the airport is close by and runs every 15 minutes.,0.0,False
+37,Room,Really clean,Positive,Positive,Really clean,1.0,True
+37,Staff,lovely caring staff.,Positive,Positive,lovely caring staff,1.0,True
+38,Room,great rooms - nice and cool,Positive,Positive,great rooms - nice and cool,1.0000000000000002,True
+39,Room,It was really clean and spacious,Positive,Positive,It was really clean and spacious.,1.0000000000000002,True
+40,Location,"Nice location, not far from Airport and Mackenzie beach.",Positive,Positive,"Nice location, not far from Airport and Mackenzie beach.",1.0000000000000002,True
+40,Room,"there was no net curtain or blind so one needed to ensure that the curtain was closed,",Negative,Negative,"there was no net curtain or blind so one needed to ensure that the curtain was closed, especially when going for a shower as the room is opposite some apartments that have a clear view into the room",0.7255124869189961,True
+41,Food,,,Negative,"the kitchen shuts at 22:30 or so, and there is no food to be had afterwards.",0.0,False
+41,Food,very nice breakfast.,Positive,Positive,very nice breakfast.,1.0,True
+41,Location,"A good location 5 lins away from the airport by car, 5 mins walk to the beach. ",Positive,Positive,"A good location 5 mins away from the airport by car, 5 mins walk to the beach.",0.90165437652834,True
+41,Room,"Clean modern rooms, ",Positive,Positive,Clean modern rooms.,1.0,True
+41,Staff,Super friendly and helpful staff.,Positive,Positive,Super friendly and helpful staff.,1.0,True
+42,Room,clean,Positive,Positive,clean,1.0,True
+42,Staff,"hospitality, ",Positive,Positive,hospitality,1.0,True
+43,Room,clean spacious practical,Positive,Positive,clean spacious practical,1.0000000000000002,True
+44,Facility,"The facilities were really good,",Positive,Positive,The facilities were really good.,1.0000000000000002,True
+44,Location,,,Negative,"Outside was a bit noisy later in the evening, but that's not within the hotel's control.",0.0,False
+44,Price,"The facilities were really good, particularly for the tariff charged.",Positive,Positive,particularly for the tariff charged.,0.7998674186120174,True
+44,Staff,Was met with a warm welcome at reception and then again by the dining staff.,Positive,Positive,Was met with a warm welcome at reception and then again by the dining staff.,1.0000000000000002,True
+45,Food,"Restaurant was a surprise hit: good food, very reasonably priced, so an easy choice to eat at the hotel when we wouldn't usually.",Positive,Positive,"Restaurant was a surprise hit: good food, very reasonably priced, so an easy choice to eat at the hotel when we wouldn't usually.",1.0000000000000002,True
+45,Location,There is a bit of plane noise in the afternoon and evening because it is right near the takeoff end of the runway,Negative,Negative,"There is a bit of plane noise in the afternoon and evening because it is right near the takeoff end of the runway, but next to no departures in the morning, so not a problem.",0.8509435335169041,True
+45,Location,The beach is about 5 minutes walk away.,Positive,Positive,The beach is about 5 minutes walk away.,1.0,True
+45,Price,,,Positive,very reasonably priced,0.0,False
+45,Room,"Recently updated, everything was me and clean.",Positive,Positive,"Recently updated, everything was me and clean.",1.0,True
+46,Price,Great value for money,Positive,Positive,Great value for money,1.0000000000000002,True
+47,Price,Good value for money.,Positive,Positive,Good value for money.,1.0,True
+47,Staff,very helpful staff who organised a taxi to collect us in the morning.,Positive,Positive,very helpful staff who organised a taxi to collect us in the morning.,1.0000000000000002,True
+48,Room,Clean and comfortable rooms,Positive,Positive,Clean and comfortable rooms.,1.0,True
+48,Staff,lovely owner,Positive,Positive,lovely owner.,1.0,True
+49,Location,Great location close to the airport and a short walk to the sea.,Positive,Positive,Great location close to the airport and a short walk to the sea.,1.0000000000000002,True
+49,Price,Great value for money.,Positive,Positive,Great value for money.,1.0000000000000002,True
+49,Room,The 2 rooms were big enough for a family of 5.,Positive,Positive,The 2 rooms were big enough for a family of 5.,0.9999999999999997,True
+50,Facility,,,Positive,Great little hotel,0.0,False
+50,Location,Great little hotel close to airport,Positive,Positive,close to airport,0.6230562263055207,False
+50,Room,Not very Soundproof,Negative,Negative,Not very Soundproof,1.0000000000000002,True
+51,Food,good food,Positive,Positive,good food,1.0,True
+51,Location,"Near airport,",Positive,Positive,Near airport,1.0000000000000002,True
+51,Room,"nice clean room, very well kept ",Positive,Positive,"nice clean room, very well kept.",1.0,True
+51,Staff,staff very helpful and friendly. ,Positive,Positive,staff very helpful and friendly.,1.0000000000000002,True
+53,Facility,,,Positive,"nice, renovated hotel",0.0,False
+53,Food,"delicious breakfasts in the hotel restaurant,",Positive,Positive,delicious breakfasts in the hotel restaurant,1.0,True
+53,Location,"close to the airport and Mackenzie Beach,",Positive,Positive,close to the airport and Mackenzie Beach,1.0000000000000002,True
+53,Room,"nice, renovated hotel, comfortable bed",Positive,Positive,comfortable bed,0.5820412406559119,False
+54,Room,Very nice and clean room.,Positive,Positive,Very nice and clean room.,1.0,True
+55,Location,Good for airport transfers,Positive,Positive,Good for airport transfers,1.0,True
+55,Room,,,Negative,A lot of mosquitos.,0.0,False
+56,Facility,,,Positive,everything was perfect for one night's stay,0.0,False
+56,Food,,,Negative,it would’ve been great if breakfast started at 7 rather than 8,0.0,False
+56,Location,"Perfect place to stay for early morning / late night flights as it’s situated within 5 minutes from the airport. given that a lot of guests book here for its prime location near the airport,",Positive,Positive,"Perfect place to stay for early morning / late night flights as it’s situated within 5 minutes from the airport., prime location near the airport",0.8204516527288771,True
+56,Room,beds are extremely comfortable ,Positive,Positive,beds are extremely comfortable,1.0000000000000002,True
+56,Staff,amazing hospitality from the staff.,Positive,Positive,amazing hospitality from the staff,1.0,True
+57,Location,"We were able to enjoy a very nice, short walk to the beach where there were many restaurants available to choose from.",Positive,Positive,"We were able to enjoy a very nice, short walk to the beach where there were many restaurants available to choose from.",1.0000000000000004,True
+57,Room,"Very clean, very comfortable room.",Positive,Positive,"Very clean, very comfortable room.",1.0000000000000002,True
+57,Staff,Staff was extremely helpful.,Positive,Positive,Staff was extremely helpful. They ordered a taxi for us to get to the airport very early in the morning.,0.41256633100788587,False
+58,Location,"Close to the airport, ",Positive,Positive,Close to the airport.,1.0000000000000002,True
+58,Room,The room wasn't soundproof so you can hear the planes.,Negative,Negative,The room wasn't soundproof so you can hear the planes.,1.0000000000000002,True
+58,Staff,the staff were nice and helpful.,Positive,Positive,the staff were nice and helpful.,1.0,True
+59,Check-in,very easy to check-in if you arrive late at night,Positive,Positive,very easy to check-in if you arrive late at night.,1.0,True
+59,Location,Close to airport so very convenient for overnight stay.,Positive,Positive,Close to airport so very convenient for overnight stay.,1.0,True
+60,Check-in,clear instructions left access to our room made easy ,Positive,Positive,Arrived in the early hours,0.0,False
+60,Room,,,Positive,clear instructions left access to our room made easy,0.0,False
+61,Food,Excellent range of food offered,Positive,Positive,Excellent range of food offered,0.9999999999999998,True
+61,Room,,,Positive,no issues for overnight stay,0.0,False
+61,Staff,good service.,Positive,Positive,good service,1.0,True
+62,Food,Restaurant on site,Positive,Positive,Restaurant on site,1.0,True
+62,Location,"Comfortable location near the airport, and near the beach.",Positive,Positive,"Comfortable location near the airport, and near the beach.",1.0000000000000002,True
+62,Room,,,Negative,Our son had a folding bed which could have been better.,0.0,False
+62,Room,"Comfortable beds, the best linen and duvets I had
+  in my entire 10 day trip.
+ In room mini bar+ tea/ coffee. Clean modern bathroom.
+ Good AC.",Positive,Positive,"Comfortable beds, the best linen and duvets I had in my entire 10 day trip., In room mini bar+ tea/ coffee, Clean modern bathroom., Good AC., how comfortable the regular beds were.",0.9265165129934716,True
+62,Staff,Caring and helpful host.,Positive,Positive,Caring and helpful host.,1.0,True
+63,Facility,,,Positive,It’s been renovated to an exceptionally high standard and it really is well up to 4* standard.,0.0,False
+63,Price,Exceptional value .,Positive,Positive,Exceptional value.,1.0000000000000002,True
+64,Food,,,Positive,"Even though the kitchen was closing, they made us a pizza which was really nice.",0.0,False
+64,Location,,,Negative,"the hotel is really close to the airport, so you can hear all the noise from the planes.",0.0,False
+64,Location,,,Positive,"We were looking for the hotel close to the airport, and it was a perfect match. The hotel is located in a close proximity to the airport (5 min by car or 10 min by bus).",0.0,False
+64,Room,you can hear all the noise from the planes.,Negative,,,0.0,False
+64,Room,"The room was new and clean, ",Positive,Positive,The room was new and clean.,1.0,True
+64,Staff,the staff reached out in advance and provided us with the detailed instructions of how to get to the room when reception closes.,Positive,Positive,the staff reached out in advance and provided us with the detailed instructions of how to get to the room when reception closes.,1.0,True
+65,Food,the food and staff were really good.,Positive,Positive,the food was really good.,0.7571397212185805,True
+65,Location,Location was great and easy to get to and from.,Positive,Positive,Location was great and easy to get to and from.,1.0000000000000002,True
+65,Room,"The property was clean, bed was comfortable ",Positive,Positive,"The property was clean, bed was comfortable.",1.0000000000000002,True
+65,Staff,the food and staff were really good.,Positive,Positive,the staff were really good.,0.8505903871472252,True
+66,Facility,The entrance to the hotel is welcoming ,Positive,Positive,"The entrance to the hotel is welcoming and the bar and coffee shop chic., I would definitely recommend it and will be staying here again.",0.44994844842174575,False
+66,Food,the bar and coffee shop chic,Positive,Positive,The fish and steak restaurant around the corner was also great value and friendly.,0.08014919679901149,False
+66,Location,The location was perfect for the airport as we were flying out to uk. ,Positive,Positive,The location was perfect for the airport as we were flying out to uk.,1.0000000000000002,True
+66,Room,The place was spotless and very comfortable. ,Positive,Positive,The place was spotless and very comfortable.,1.0,True
+66,Staff,The gentleman in reception was very friendly and had a lovely smile. ,Positive,Positive,The gentleman in reception was very friendly and had a lovely smile.,1.0000000000000002,True
+67,Staff,friendly staff,Positive,Positive,friendly staff,1.0,True
+68,Price,"good value, ",Positive,Positive,good value,1.0,True
+68,Room,clean,Positive,Positive,clean,1.0,True
+68,Staff,Friendly,Positive,Positive,Friendly,1.0,True
+69,Location,,,Positive,The place,0.0,False
+69,Price,,,Positive,such a price,0.0,False
+69,Room,The place and the people are lovely,Positive,,,0.0,False
+69,Staff,The place and the people are lovely,Positive,Positive,the people are lovely,0.8317195912045876,True
+70,Room,Peaceful and clean ,Positive,Positive,Peaceful and clean,1.0,True
+70,Staff,friendly helpful staff,Positive,Positive,friendly helpful staff,1.0,True
+71,Check-in,Got very clear instructions how to get access to our room. ,Positive,,,0.0,False
+71,Location,"there is no shop or pharmacy in the area, ",Negative,Negative,"there is no shop or pharmacy in the area, but the accommodation cannot do anything about this.",0.6487690018012604,False
+71,Location,,,Positive,"The bus stop with direct access to the airport is a few steps from the accommodation. the airport can be reached in a few minutes. at the same time, Mackenzie beach is also easily accessible on foot.",0.0,False
+71,Room,,,Positive,Got very clear instructions how to get access to our room.,0.0,False
+71,Staff,The staff of the hotel is extremely friendly and nice.,Positive,Positive,The staff of the hotel is extremely friendly and nice.,1.0,True
+72,Check-in,I received very clear instructions how to enter the hotel and access my room.,Positive,,,0.0,False
+72,Staff,,,Positive,I received very clear instructions how to enter the hotel and access my room.,0.0,False
+73,Room,wonderful room.,Positive,Positive,wonderful room.,1.0000000000000002,True
+73,Staff,Lovely staff doing best to assist always. ,Positive,Positive,Lovely staff doing best to assist always.,1.0000000000000002,True
+74,Food,there is a restaurant in the hotel with delicious food. ,Positive,Positive,there is a restaurant in the hotel with delicious food.,1.0,True
+74,Location,"The hotel is based on a quiet place near to the airport, beach and the Salt Lake in the city. The location is excellent, as there are lots of parking places around",Positive,Positive,"The hotel is based on a quiet place near to the airport, beach and the Salt Lake in the city. The location is excellent, as there are lots of parking places around, as well.",0.9707054250028286,True
+74,Room,"very clean and cozy ones, with comfortable beds.",Positive,Positive,"very clean and cozy ones, with comfortable beds.",1.0,True
+74,Staff,The staff of the hotel is extremely friendly and nice.,Positive,Positive,The staff of the hotel is extremely friendly and nice.,1.0,True
+75,Room,Disappointed we didn't have a balcony,Negative,Negative,Disappointed we didn't have a balcony.,1.0,True
+76,Location,perfect location nearby the beach,Positive,Positive,perfect location nearby the beach,1.0000000000000004,True
+76,Room,Feels new and clean ,Positive,Positive,Feels new and clean,1.0000000000000002,True
+77,Check-in,,,Positive,All went amazing!,0.0,False
+77,Staff,The staff is very VERY helpful and eager to assist,Positive,Positive,The staff is very VERY helpful and eager to assist.,1.0000000000000002,True
+78,Room,"clean, nice room, big bathroom",Positive,Positive,"clean, nice room, big bathroom",1.0000000000000002,True
+78,Staff,Nice friendly staff.,Positive,Positive,Nice friendly staff.,1.0000000000000002,True
+79,Check-in,,,Positive,All good,0.0,False
+79,Check-out,,,Positive,All good,0.0,False
+79,Facility,,,Positive,All good,0.0,False
+79,Food,,,Positive,All good,0.0,False
+79,Location,,,Positive,All good,0.0,False
+79,Price,,,Positive,All good,0.0,False
+79,Room,New clean setup,Positive,Positive,"New clean setup, All good",0.8326983572138096,True
+79,Staff,friendly helpful staff,Positive,Positive,"friendly helpful staff, All good",0.7284376327249326,True
+80,Facility,,,Positive,It is a new hotel.,0.0,False
+80,Food, We had dinner. It was delicious and inexpensive.,Positive,Positive,We had dinner. It was delicious and inexpensive.,1.0000000000000004,True
+80,Location, Mc Kenzie Beach within walking distance.,Positive,Positive,Mc Kenzie Beach within walking distance.,1.0000000000000002,True
+80,Room,It is a new hotel. Everything was clean. ,Positive,Positive,Everything was clean.,0.6270410885293695,False
+81,Facility,No 24 hour reception so not easy to access entry at odd hours.,Negative,Negative,No 24 hour reception so not easy to access entry at odd hours.,1.0,True
+81,Location,Close to the airport ,Positive,Positive,Close to the airport.,1.0000000000000002,True
+81,Room,"clean spacious rooms. Quaint, comfortable bright room with great WiFi and AC.",Positive,Positive,clean spacious rooms.,0.4239546815744874,False
+82,Location, great location,Positive,Positive,great location,1.0,True
+82,Room," super clean 
+ modern ",Positive,Positive,"super clean, modern",1.0000000000000002,True
+82,Staff,Amazing staff ,Positive,Positive,Amazing staff,1.0000000000000002,True
+83,Location,The location was a little bit far from the centre.,Negative,Negative,The location was a little bit far from the centre.,1.0,True
+83,Room,Room was clean and comfortable.,Positive,Positive,Room was clean and comfortable.,1.0,True
+83,Staff,Staff was very nice and friendly.,Positive,Positive,Stuff was very nice and friendly.,0.6862023450759116,False
+84,Facility,"they did not a have pool, ",Negative,Negative,they did not have a pool.,1.0,True
+84,Facility,Every thing was spotless clean everywhere too.  had plenty of chairs to sit on outside in the garden which also was spotlessly clean everywhere too.,Positive,Positive,"Every thing was spotless clean in the breakfast room., had plenty of chairs to sit on outside in the garden which also was spotlessly clean everywhere too.",0.9282921151835372,True
+84,Food,The breakfast was very good plenty of selection ,Positive,Positive,The breakfast was very good plenty of selection.,1.0000000000000002,True
+84,Staff,"very good staff serving you as a values customer and so very polite and caring at all times. Could not seem to do enough for their guests, ",Positive,Positive,very good staff serving you as a valued customer and so very polite and caring at all times. Could not seem to do enough for their guests.,0.9214307376952175,True
+85,Check-in,,,Positive,So they finished the cleaning after our complaint.,0.0,False
+85,Food,"Good food in the restaurant downstairs,",Positive,Positive,Good food in the restaurant downstairs,1.0000000000000002,True
+85,Room,The room wasn't clean when we checked in. ,Negative,Negative,The room wasn't clean when we checked in.,1.0,True
+85,Staff, friendly personnel. So they finished the cleaning after our complaint,Positive,Positive,friendly personnel,0.45867069570550945,False
+86,Facility,,,Positive,Lovely little hotel.,0.0,False
+86,Food, Breakfast was excellent.,Positive,Positive,Breakfast was excellent.,1.0,True
+86,Staff,Lovely little hotel with very friendly staff. ,Positive,Positive,very friendly staff.,0.534644623886668,False
+87,Food,nice restaurant.,Positive,Positive,nice restaurant.,1.0,True
+87,Staff,Super friendly staff,Positive,Positive,Super friendly staff.,1.0000000000000002,True
+88,Location,Good location and easily reached from the airport.,Positive,Positive,Good location and easily reached from the airport.,1.0,True
+88,Room,Clean comfortable little hotel.,Positive,Positive,"Clean comfortable little hotel., It was perfect for my stay.",0.6083626637113365,False
+88,Staff,Lovely friendly staff.,Positive,Positive,Lovely friendly staff.,1.0000000000000002,True
+89,Check-in,instructions for access were sent in advance and absolutely perfect. ,Positive,Positive,instructions for access were sent in advance and absolutely perfect.,1.0000000000000002,True
+89,Room,"a clean, comfortable bed within minutes of arrival.",Positive,Positive,"In a clean, comfortable bed within minutes of arrival.",0.9664267987581211,True
+90,Facility,parking not always easy,Negative,Negative,parking not always easy.,1.0,True
+90,Location,position,Positive,Positive,position,1.0,True
+90,Room,very clean,Positive,Positive,very clean,1.0000000000000002,True
+90,Staff,staff,Positive,Positive,staff,1.0,True
+91,Location,Close to Larnaca airport. ,Positive,Positive,Close to Larnaca airport.,1.0,True
+91,Room, Very nice rooms that were very clean. ,Positive,Positive,Very nice rooms that were very clean.,1.0000000000000002,True
+91,Staff," helpful, friendly staff.",Positive,Positive,"helpful, friendly staff.",1.0,True
+92,Check-in,"we did late night check in, that was super easy and comfortable",Positive,Positive,"we did late night check in, that was super easy and comfortable",1.0000000000000002,True
+92,Room,it was a bit badly soundproofed,Negative,Negative,it was a bit badly soundproofed.,1.0,True
+93,Food,Nice restaurant in the same building very welcoming with nice offer.,Positive,Positive,Nice restaurant in the same building very welcoming with nice offer.,1.0,True
+93,Location,,,Negative,The location of the place is more a waiting position for your next flight at the Larnaka airport than a beach stay.,0.0,False
+93,Location,,,Positive,Bus stop for the airport walkable.,0.0,False
+93,Room,"New room, very comfortable. ",Positive,Positive,"New room, very comfortable.",1.0,True
+93,Staff,,,Positive,Francais parlé parfaitement.,0.0,False
+94,Facility,modern facility ,Positive,Positive,modern facility.,1.0,True
+94,Food,very tasty food with a super service at the restaurant by the hotel.,Positive,Positive,very tasty food with a super service at the restaurant by the hotel.,1.0000000000000004,True
+94,Staff,"Amazing staff,",Positive,Positive,Amazing staff.,1.0000000000000002,True
+95,Location,perfect location for the airport,Positive,Positive,perfect location for the airport,1.0,True
+95,Room,clean and quiet,Positive,Positive,clean and quiet,1.0,True
+96,Room,some of the towels were dirty,Negative,Negative,some of the towels were dirty,1.0000000000000002,True
+96,Room,the room is very comfortable.,Positive,Positive,the room is very comfortable.,1.0000000000000002,True
+96,Staff,"the staff is very nice,",Positive,Positive,the staff is very nice.,1.0000000000000002,True
+97,Food,The food we had was excellent,Positive,Positive,The food we had was excellent,1.0000000000000002,True
+97,Staff,service was excellent,Positive,Positive,service was excellent,1.0000000000000002,True
+98,Location,"it is close to the airport. The nearby beach (mackenzie) is nice, long, with some cool and fancy bars.  there is also the salt lake",Positive,Positive,"close to the airport., the location offers some nice places for at least a two-nights stay for sure. The nearby beach (mackenzie) is nice, long, with some cool and fancy bars. there is also the salt lake which I wished to visit but didn't have time.",0.681912962350514,False
+98,Room,the blankets - too thick for this incredible hot hot hot weather.,Negative,Negative,Only thing I didn't like were the blankets - too thick for this incredible hot hot hot weather.,0.8590067280232366,True
+98,Room,"very nice, spacious, clean and modern.",Positive,Positive,"The Hotel itself was very nice, spacious, clean and modern.",0.7211142165237193,True
+99,Room,very clean,Positive,Positive,very clean,1.0000000000000002,True
+99,Staff,the staff was wonderful,Positive,Positive,the staff was wonderful,1.0,True
+100,Room,"really clean,",Positive,Positive,really clean,1.0,True
+100,Staff,"exceptional staff, incredibly polite",Positive,Positive,"exceptional staff, incredibly polite",1.0,True
+101,Room,The cupboards/wardrobes need doors and they should be drawers in the room to keep the rooms tidy.,Negative,Negative,The cupboards/wardrobes need doors and they should be drawers in the room to keep the rooms tidy.,1.0,True
+101,Staff,The staff were very hospitable and very helpful.,Positive,Positive,The staff were very hospitable and very helpful.,1.0000000000000002,True
+102,Location,"The location is excellent close to Airport, Makenzie beach and touristic area, and bus stop going from Airport to town is few meters away.",Positive,Positive,"The location is excellent close to Airport, Makenzie beach and touristic area, and bus stop going from Airport to town is few meters away.",1.0000000000000002,True
+102,Room,Nice modern and clean rooms.,Positive,Positive,Nice modern and clean rooms.,1.0000000000000002,True
+102,Staff,Very friendly staff.,Positive,Positive,Very friendly staff.,1.0000000000000002,True
+103,Room,No soap or shampoo in the shower. There was hand soap instead.,Negative,Negative,No soap or shampoo in the shower. There was hand soap instead.,1.0000000000000002,True
+103,Room,The room was recently refurbished and very spatious. Nice view of the salt lake by the terrace.  Sinks and toilette separated by a door inside the bathroom.,Positive,Positive,"The room was recently refurbished and very spatious., Nice view of the salt lake by the terrace., Sinks and toilette separated by a door inside the bathroom.",0.9999999999999997,True
+104,Location,,,Positive,Quiet place,0.0,False
+104,Room,good rooms,Positive,Positive,good rooms,1.0000000000000002,True
+105,Room,the rooms were very clean and the bathroom was spacious.,Positive,Positive,"the rooms were very clean, the bathroom was spacious.",0.9767089607323909,True
+105,Staff,The staff was super nice,Positive,Positive,The staff was super nice.,1.0000000000000002,True
+106,Location,the proximity to the airport,Positive,Positive,the proximity to the airport.,1.0000000000000002,True
+106,Room,very comfortable beds.,Positive,Positive,very comfortable beds.,1.0,True
+106,Staff,The hotel staff should learn better English ,Negative,Negative,"The hotel staff should learn better English - confusing the term 'fridge' and 'freezer' can be fatal for a person with diabetes. The team froze our insulin, meaning it was unusable.",0.45015347508209214,False
+107,Food,Breakfast was excellent.,Positive,Positive,Breakfast was excellent.,1.0,True
+107,Location,Very convenient for the airport,Positive,Positive,Very convenient for the airport.,1.0000000000000002,True
+107,Room,Rooms large and newly redecorated in a contemporary style. Bed very comfortable,Positive,Positive,"Rooms large and newly redecorated in a contemporary style., Bed very comfortable.",1.0000000000000002,True
+109,Facility,,,Positive,Clean hotel.,0.0,False
+109,Location,Great location for overnight stay for late flights. ,Positive,Positive,Great location for overnight stay for late flights.,1.0,True
+109,Room,"Clean hotel, lovely rooms with comfortable beds. ",Positive,Positive,lovely rooms with comfortable beds.,0.8944021880886841,True
+109,Staff,Very helpful staff,Positive,Positive,Very helpful staff.,1.0,True
+110,Check-in,the self check in was very easy.,Positive,Positive,the self check in was very easy,1.0000000000000002,True
+110,Facility,,,Positive,the building is completely refurbished,0.0,False
+110,Room,,,Positive,it is confortable,0.0,False
+111,Location,Excellent for airport and Mackenzie beach ,Positive,Positive,Excellent for airport and Mackenzie beach.,1.0,True
+111,Room,spotlessly clean.,Positive,Positive,spotlessly clean.,1.0000000000000002,True
+112,Facility,,,Positive,recently refurbished,0.0,False
+112,Food,"very nice restaurant, good food and service",Positive,Positive,"very nice restaurant, good food",0.8259350367861827,True
+112,Staff,,,Positive,good service,0.0,False
+113,Room,Very nice clean rooms,Positive,Positive,Very nice clean rooms,1.0000000000000004,True
+113,Staff,Staff excellent and accommodating.,Positive,Positive,Staff excellent and accommodating.,1.0000000000000002,True
+119,Location,It's in a great location for the airport and the beach. ,Positive,Positive,It's in a great location for the airport and the beach.,1.0000000000000002,True
+119,Room,"The room was clean and comfortable with everything I needed including a fridge and kettle. The shower was great, the air con worked well.",Positive,Positive,"The room was clean and comfortable with everything I needed including a fridge and kettle., The shower was great, the air con worked well.",1.0000000000000002,True
+119,Staff,"But what made La Veranda stand out was the fantastic service, they couldn't have been friendlier, kinder or more helpful. they were able to accommodate my specific needs",Positive,Positive,"the fantastic service, they couldn't have been friendlier, kinder or more helpful and it made a massive difference for me as they were able to accommodate my specific needs, for which I was extremely grateful!",0.6989657372654475,False
+120,Location,close to airport,Positive,Positive,close to airport,1.0000000000000002,True
+120,Room,The room was small but adequate,Negative,,,0.0,False
+120,Room,,,Positive,The room was small but adequate.,0.0,False
+120,Staff,Helpful staff ,Positive,Positive,Helpful staff,1.0,True
+122,Room,Very clean,Positive,Positive,Very clean,1.0000000000000002,True
+122,Staff,super friendly staff.,Positive,Positive,super friendly staff,1.0000000000000002,True
+123,Facility,,,Positive,Nice and simple hotel.,0.0,False
+123,Location,,,Negative,The area was a little noisy when we stayed there.,0.0,False
+123,Location,Very convenient location close to the airport. ,Positive,Positive,Very convenient location close to the airport.,1.0000000000000002,True
+123,Room,The area was a little noisy when we stayed there.,Negative,,,0.0,False
+123,Staff,The front desk was very friendly and helpful.,Positive,Positive,The front desk was very friendly and helpful.,1.0,True
+124,Staff,Very friendly staff,Positive,Positive,Very friendly staff,1.0000000000000002,True
+126,Food,The food was very tasty,Positive,Positive,The food was very tasty (I didn't have breakfast but ate dinner at the restaurant).,0.4836636866099038,False
+126,Location,,,Negative,It was a bit loud outside but that was just normal for summertime.,0.0,False
+126,Room,It was a bit loud outside ,Negative,,,0.0,False
+126,Room,"very nice bathroom, and the room was well equipped and also smelled very nice.",Positive,Positive,"very nice bathroom, and the room was well equipped and also smelled very nice.",1.0000000000000002,True
+126,Staff,"staff very helpful and friendly, ",Positive,Positive,staff very helpful and friendly.,1.0000000000000002,True
+131,Location,"The location of the hotel was a bit far from the city centre, ",Negative,Negative,The location of the hotel was a bit far from the city centre.,1.0000000000000002,True
+131,Location,,,Positive,"you can take the 425 bus, which arrives fairly often at the station near the hotel.",0.0,False
+131,Room,The room was very clean. ,Positive,Positive,The room was very clean. Using the air conditioner was great after a hot day outside.,0.42138589052550135,False
+131,Staff,The staff was very nice.,Positive,Positive,The staff was very nice.,1.0000000000000002,True
+133,Facility,no swimming pool,Negative,Negative,if the hotel had swimming pool it would be perfect,0.5056966634275013,False
+133,Price,,,Positive,good value for money,0.0,False
+133,Room,,,Positive,the room was clean & the bed were comfortable,0.0,False
+133,Staff,,,Positive,the lady in reception (Maria) was VERY helpful,0.0,False
+137,Location,great location,Positive,Positive,great location,1.0,True
+137,Room,The smell in the bathroom,Negative,,,0.0,False
+137,Room,Room was clean and the bed was comfortable ,Positive,Positive,Room was clean and the bed was comfortable,1.0,True
+137,Staff,Friendly staff ,Positive,Positive,Friendly staff,1.0,True
+138,Location,,,Positive,Great localization,0.0,False
+138,Room,"very clean room and bathroom,",Positive,Positive,very clean room and bathroom,1.0,True
+138,Staff,"very helpful and kind personel,",Positive,Positive,very helpful and kind personel,1.0,True
+139,Facility,slow elevators,Negative,Negative,slow elevators,1.0000000000000002,True
+139,Food,nice restaurant at the hotel with a external balcony,Positive,Positive,nice restaurant at the hotel with a external balcony,1.0000000000000002,True
+139,Location,the proximity to the airport,Positive,Positive,the proximity to the airport,1.0000000000000002,True
+150,Facility,That there is no kiosk open 24 hours close to the hotel.,Negative,,,0.0,False
+150,Facility,"Everything was new, beautiful and clean.",Positive,Positive,"Everything was new, beautiful and clean.",1.0,True
+150,Location,,,Negative,there is no kiosk open 24 hours close to the hotel.,0.0,False
+152,Check-in,there was no one in the hotel to give us keys and the door was locked. ,Negative,Negative,We had a late check in and there was no one in the hotel to give us keys and the door was locked. We had to ask the taxi driver to make the call because it was cyprus number.,0.6578712634021112,False
+152,Location,,,Positive,"Close to the bars near the sea., close to the airport.",0.0,False
+152,Room,,,Positive,clean rooms.,0.0,False
+154,Food,,,Positive,Good food.,0.0,False
+154,Room,Would have liked more TV channels like RT Russia Today,Negative,Negative,Would have liked more TV channels like RT Russia Today.,1.0000000000000002,True
+154,Staff,,,Positive,Lovely staff.,0.0,False
+171,Facility,when I came but the hotel doesn't have it's own parking lot so sometimes it might be difficult to find a parking spot.,Negative,Negative,the hotel doesn't have its own parking lot so sometimes it might be difficult to find a parking spot.,0.8631513483233794,True
+171,Location,,,Positive,"Very nice place, just few steps from the salt lake and the McKenzie Beach (with shallow water, good for people who are not too good swimmers, a lot of cafes and bars nearby).",0.0,False
+171,Room,,,Positive,electronic system for saying if you want to clean-up your room or you don't want to be disturbed.,0.0,False
+171,Staff,,,Positive,The staff was very welcoming as well.,0.0,False
+179,Facility,,,Negative,Better TV channel selection would have been good for evening.,0.0,False
+179,Location,,,Positive,"Close to local restaurants and beach., Quiet.",0.0,False
+179,Room,Better TV channel selection would have been good for evening.,Negative,,,0.0,False
+179,Room,,,Positive,Very clean.,0.0,False
+180,Food,,,Positive,delicious breakfast (great freshly made croissants),0.0,False
+180,Room,AC was a bit loud and the people in the next hotel were also loud to be heard from our room,Negative,Negative,"AC was a bit loud., the people in the next hotel were also loud to be heard from our room.",0.994249280238049,True
+180,Room,,,Positive,"Sparkling clean, comfy bed",0.0,False
+180,Staff,,,Positive,friendly staff,0.0,False
+190,Check-in,,,Positive,We had a very late (1am) self check-in which worked very well.,0.0,False
+190,Facility,,,Positive,A very modern and contemporary hotel.,0.0,False
+190,Food,,,Positive,Excellent breakfast.,0.0,False
+190,Location,,,Positive,Conveniently located.,0.0,False
+190,Room,"Our room was rather small and lacked a balcony, ",Negative,Negative,Our room was rather small and lacked a balcony.,1.0000000000000002,True
+195,Facility,,,Positive,new and modern,0.0,False
+195,Location,Not too close to the beach ,Negative,Negative,Not too close to the beach,1.0,True
+195,Location,,,Positive,Perfect for pre or post airport stays,0.0,False
+195,Room,,,Positive,"Clean, spacious",0.0,False
+195,Staff,,,Positive,friendly,0.0,False
+196,Price,,,Negative,there was a promotion from booking.com which didn't apply and we payed 80 euro more. After that I checked a new dates to book and we had similar number and if we do it it will be the same. This is a big fraud.,0.0,False
+196,Room,The mattresses were hard.,Negative,Negative,The mattresses were hard.,1.0,True
+208,Location,,,Positive,"quiet area, easy to find parking places",0.0,False
+208,Room,"there was hair on the floor from previous visitors, it should be better cleaner .",Negative,Negative,"there was hair on the floor from previous visitors, it should be better cleaner.",1.0000000000000002,True
+209,Food,,,Positive,we loved the breakfast,0.0,False
+209,Room,"it was a bit noisy
+ we could here everything",Negative,Negative,"it was a bit noisy, we could hear everything.",0.8104817035212473,True
+209,Room,,,Positive,it was a really nice room,0.0,False
+209,Staff,,,Positive,very friendly people,0.0,False
+213,Food,,,Positive,The food was very good.,0.0,False
+213,Room,In the bathroom smelled bad,Negative,Negative,In the bathroom smelled bad.,1.0,True
+213,Staff,,,Positive,the chef is kind.,0.0,False
+433,Check-out,,,Negative,"we got a call that prompted us to check out at the normal time (12pm) as the next customers would arrive. I exllained thay we have been granted late check out and the clerk apologised. No problem for this, but I find it important to keep staff updated about these things.",0.0,False
+433,Check-out,,,Positive,we have requested late check out (1pm) which we got and we appreciate it,0.0,False
+433,Facility,"there is no designated parking, you just park wherever you find",Negative,Negative,"there is no designated parking, you just park wherever you find",1.0000000000000002,True
+433,Room,,,Negative,"the shower of our room is very inconviniently placed, making a mess because of insufficient coverage of the bathroom glass, the edges of the shower (between wall tiles and the shower floor) need replacement - they are hollow and seem moldy, the bin is rusty, the mirror is weirdly placed, on the right of the sink, due to the placement of the curtains, a lot of light gets in the room in the morning",0.0,False
+433,Room,,,Positive,I also liked the size of the room and the bed.,0.0,False
+433,Staff,,,Positive,I really liked how polite and friendly the staff was.,0.0,False
+436,Location,,,Positive,Central location.,0.0,False
+436,Price,"Overpriced for such small room, For that money for which I used to pay better hotels",Negative,Negative,For that money for which I used to pay better hotels in Valencia you get one small water bottle.,0.6809788241304073,False
+436,Room,"Size of the room is one of the smallest I have ever seen. There is no space for the suitcase nor a wardrobe. No sitting area.
+ There is a terrace which Sun hits all the time,",Negative,Negative,Size of the room is one of the smallest I have ever seen. There is no space for the suitcase nor a wardrobe. No sitting area.,0.883543311310083,True
+436,Room,,,Positive,"The room was perfectly clean., There is a terrace which Sun hits all the time, except for the early morning.",0.0,False
+436,Staff,,,Positive,Maria and Richard are really great hosts! Very kind and hospitable. Maria has offered an adapter immediately.,0.0,False
+437,Food,No breakfast included. We tried it one time at their restaurant and it was low quality compared to an original greek breakfast.,Negative,Negative,"No breakfast included., it was low quality compared to an original greek breakfast. Didn't eat there again.",0.715135600751285,True
+437,Price,For what you get it was a bit expensive. ,Negative,Negative,For what you get it was a bit expensive.,1.0,True
+437,Room,The rooms were a bit small for a suite. ,Negative,Negative,The rooms were a bit small for a suite.,1.0000000000000002,True
+437,Room,,,Positive,"It was clean, the beds were comfortable.",0.0,False
+439,Food,Restaurant was offering a rather narrow set of choices compared to what was listed on the menu.,Negative,Negative,Restaurant was offering a rather narrow set of choices compared to what was listed on the menu.,0.9999999999999997,True
+439,Food,,,Positive,Restaurant stayed open reasonably late so I could eat after an evening arrival.,0.0,False
+439,Location,,,Positive,Usefully located hotel in between city centre and airport.,0.0,False
+439,Room,Room quite small.,Negative,Negative,Room quite small.,1.0000000000000002,True
+447,Room,The bed and pillows were very uncomfortable and the telly was not working properly,Negative,Negative,"The bed and pillows were very uncomfortable., the telly was not working properly.",0.9908851603306276,True
+447,Staff,,,Positive,the staff were lovely,0.0,False
+453,Check-in,Waited 10 minutes for someone to come greet us for check in,Negative,,,0.0,False
+453,Location,,,Positive,close to mackenzie beach,0.0,False
+453,Room,"Safe didn’t work, back door balcony in other bedroom wouldn’t lock, do not disturb sign didn’t work (electronic) 
+ asked for double bed and got two single beds next to eachother 
+ very noisy guests. ",Negative,Negative,"Safe didn’t work, back door balcony in other bedroom wouldn’t lock, do not disturb sign didn’t work (electronic), asked for double bed and got two single beds next to each other, very noisy guests.",0.9495769086809869,True
+453,Staff,,,Negative,"Waited 10 minutes for someone to come greet us for check in, no one on desk., Guy on desk told us we had not paid but we did, then he took a picture of my passport which no hotel does at all which was very strange.",0.0,False
+454,Location,Very noisy neighborhood,Negative,Negative,Very noisy neighborhood,1.0,True
+455,Facility,,,Negative,"the pool not even to be considered., the overall hotel installation is badly maintained., The lift broke.",0.0,False
+455,Location,"The location was not great, It’s in front of a pension and so close that people could see the colour of my underwear. ",Negative,Negative,"The location was not great, It’s in front of a pension and so close that people could see the colour of my underwear.",1.0000000000000002,True
+455,Location,,,Positive,you can easily pass here one night before flying back.,0.0,False
+455,Room,The aircon was too strong. Very noisy,Negative,Negative,"The aircon was too strong so we’d opened the windows, big mistake! Very noisy (I’ve asked quiet room).",0.5364153158736412,False
+455,Room,,,Positive,"It’s clean., The pictures of the room are accurate.",0.0,False
+455,Staff,the guy was offended becawe asked to see the room before paying….,Negative,Negative,the guy was offended because we asked to see the room before paying.,0.8476320860755012,True
+456,Facility,,,Negative,wifi is not good,0.0,False
+456,Facility,,,Positive,Peaceful and good for couples and backpackers.,0.0,False
+456,Food,-No free breakfast option. ,Negative,Negative,No free breakfast option.,1.0,True
+456,Food,,,Positive,The sandwiches and hummus by the chef were delicious.,0.0,False
+456,Location,,,Positive,"Location is good., Convenient by taxi to city Center, airport and beach.",0.0,False
+456,Price,,,Negative,when I booked this property in advance it was a higher price but booking.com reduced the price before my travel date and the hotel refused to accept the lower price which I felt was unfair for me as they charged twice for cancellation and rebooking.,0.0,False
+456,Room,"They need to put a lock to the bathroom and a shower glass door inside or else it gets messy.
+ -wifi is not good",Negative,Negative,They need to put a lock to the bathroom and a shower glass door inside or else it gets messy.,0.9349632709551655,True
+456,Room,,,Positive,rooms are very well maintained.,0.0,False
+456,Staff,,,Positive,"Mrs Tony does a fabulous job keeping the place spotless and making the guests comfortable., The helps are amazing too., Thanks to all at the hotel who work hard to keep it in good condition.",0.0,False
+457,Room,The way room are furnished is not comfortable,Negative,Negative,The way room are furnished is not comfortable.,1.0000000000000002,True
+458,Facility,facilities are limited. ,Negative,Negative,"facilities are limited., Probably renovation work was in progress so, some items were not ready.",0.4568163630332507,False
+458,Food,Limited food options,Negative,Negative,Limited food options,1.0,True
+458,Room,"Noisy. Probably renovation work was in progress so, some items were not ready. Example, there is no rod for hangers in the wardrobe, the safe wasn’t fixed.",Negative,Negative,"Noisy, there is no rod for hangers in the wardrobe, the safe wasn’t fixed.",0.70168640016217,True
+458,Room,,,Neutral,Basic night stay,0.0,False
+459,Room,"TV did not work, garbage truck passes at 3 a.m with an incredible noise.",Negative,Negative,"TV did not work., garbage truck passes at 3 a.m with an incredible noise.",1.0000000000000002,True
+459,Room,,,Positive,"Very comfortable bed, room very new and comfortable.",0.0,False
+460,Location,,,Positive,Location was excellent.,0.0,False
+460,Price,Rate was very expensive for what it offered.,Negative,Negative,Rate was very expensive for what it offered.,1.0000000000000002,True
+460,Room,"No cleaning service the 4 days I stayed, no emptying garbage can and also had to ask for fresh towels. There were not even hangers for clothes in the closet",Negative,Negative,"No cleaning service the 4 days I stayed, no emptying garbage can and also had to ask for fresh towels., There were not even hangers for clothes in the closet.",1.0000000000000002,True
+460,Room,,,Positive,Room was very clean upon arrival.,0.0,False
+460,Staff,,,Positive,staff was very polite.,0.0,False
+461,Facility,,,Negative,Our plumbing had complications twice.,0.0,False
+461,Food,,,Negative,a box of cookies next to our bags that was meant to be a gift. These cookies are only made in Thessaloniki and cost us 25 euros.,0.0,False
+461,Room,Our plumbing had complications twice. ,Negative,,,0.0,False
+461,Staff,,,Negative,"the cleaning crew cleaned out our rooms and threw out a box of cookies next to our bags that was meant to be a gift. When we asked if they had seen them, the owners brought them out of the trash room and offered to spray them as if that would be acceptable for an edible gift during COVID pandemic cautions. It was nice that they tried, but they should be refunding us for the cookies we lost. I feel bad writing a negative review because they were kind; however, only things near the garbage should be thrown out. Not stuff next to guests' belongings. I was extremely disappointed in how they dealt with the situation, and that they thought it was acceptable to take an edible gift out of a trash room and continue as if nothing happened.",0.0,False
+461,Staff,,,Positive,The people working there were kind and responsive.,0.0,False
+474,Facility,,,Negative,if you're lucky you may have the only one parking in the side.,0.0,False
+474,Food,Very poor lunch (breakfast),Negative,Negative,Very poor lunch (breakfast).,1.0000000000000002,True
+474,Price,"Overpriced for its facilities,",Negative,Negative,Overpriced for its facilities.,1.0000000000000002,True
+474,Room,,,Positive,"Clean, smart devices.",0.0,False
+475,Room,"The floor is not cleaned enough, full of dust, water does not drain and floods the room",Negative,Negative,"The floor is not cleaned enough, full of dust, water does not drain and floods the room.",1.0000000000000002,True
+483,Location,,,Positive,"In a very good location, close to the airport, especially if you have an early or late flight, and also close to the beach.",0.0,False
+483,Room,"The main reason for not giving the highest rating is the noise. From the neighboring hotels/houses, they showered at any time of the day and made unpleasant noise. There were problems with the sealing and closing of the window.",Negative,Negative,"The main reason for not giving the highest rating is the noise. From the neighboring hotels/houses, they showered at any time of the day and made unpleasant noise., There were problems with the sealing and closing of the window.",1.0,True
+483,Staff,,,Positive,The staff are extremely friendly and always happy to help when needed. They were always ready to answer any of our questions.,0.0,False
+484,Location,Just a bit far from town,Negative,,,0.0,False
+484,Room,Room a bit small,Negative,,,0.0,False
+491,Location,,,Positive,good location for the airport.,0.0,False
+491,Room,The noise. The rooms are poorly soundproofed. We hear the neighbors moving.,Negative,Negative,The rooms are poorly soundproofed. We hear the neighbors moving.,0.9510463562720393,True
+491,Room,,,Positive,"Practical rooms, balconies in each room.",0.0,False
+491,Staff,,,Positive,Listening staff.,0.0,False
+492,Location,,,Negative,the steady stream of travelers arriving/departing for the airport throughout the night.,0.0,False
+492,Location,,,Positive,"Hotel near the airport, ideal for a late arrival or a very early departure.",0.0,False
+492,Room,"bed duvet much too thick, we suffocate underneath! Very hard bed. Noisy, due to the heavy use of tiling and the steady stream of travelers arriving/departing for the airport throughout the night.",Negative,Negative,"bed duvet much too thick, we suffocate underneath! Very hard bed., Noisy, due to the heavy use of tiling.",0.7990032561733578,True
+510,Location,,,Positive,Proximity to the airport,0.0,False
+510,Price,,,Positive,cheap,0.0,False
+510,Room,"Cramped, the third bed for a child is more suitable for a baby, minimalist room accessories",Negative,Negative,"Cramped, the third bed for a child is more suitable for a baby, minimalist room accessories",1.0000000000000002,True
+510,Room,,,Positive,clean,0.0,False
+521,Room,The air conditioner does not cool enough,Negative,Negative,The air conditioner does not cool enough.,1.0000000000000002,True
+521,Room,,,Positive,"Very clean, well organized, nothing missing, pleasant balcony, comfortable mattress.",0.0,False
+521,Staff,,,Positive,nice hosts,0.0,False
+538,Check-in,,,Positive,We arrived in the middle of the night and were able to get into the room via self-check-in without any problems.,0.0,False
+538,Location,,,Positive,"Good location close to the airport - easily accessible by taxi, there is also a bus route nearby.",0.0,False
+538,Room,Rooms may be a bit small for a longer stay,Negative,,,0.0,False
+540,Location,,,Positive,"Location is very close to the beach, Very close to the airport, like 8 minutes by car.",0.0,False
+540,Room,Room a little smaller than average,Negative,Negative,Room a little smaller than average.,1.0,True
+540,Room,,,Positive,"Really soft bed and pillows., large bathroom and shower.",0.0,False
+540,Staff,,,Positive,very kind staff on the last day kept our suitcases in custody for the whole day.,0.0,False
+543,Facility,Little parking nearby arriving in the evening,Negative,Negative,Little parking nearby arriving in the evening.,1.0000000000000002,True
+543,Room,,,Positive,recently refurbished rooms.,0.0,False
+548,Food,Have to pay for breakfast,Negative,Negative,Have to pay for breakfast,1.0000000000000002,True
+548,Food,,,Positive,Arabic food,0.0,False
+560,Location,,,Positive,Excellent location near the airport. Good for an overnight stay after a late or early morning flight.,0.0,False
+560,Room,There was no hot water the two nights. ,Negative,Negative,There was no hot water the two nights we slept there.,0.8502857452459772,True
+560,Staff,,,Negative,"even when we complained, they said they took care of it and it wasn't taken care of.",0.0,False
+562,Location,,,Positive,close to Larnaca airport and it was really convenient to stop there because our flight landed in the middle of the night.,0.0,False
+562,Room,The water in the bath is cold!!!!!! ,Negative,Negative,The water in the bath is cold.,1.0000000000000002,True
+562,Room,,,Positive,The room is really clean.,0.0,False
+572,Facility,The elevator. it needs more cleaning and maybe a complete renovation would be better.,Negative,Negative,The elevator needs more cleaning and maybe a complete renovation would be better.,0.9829640381630059,True
+572,Staff,,,Positive,"Friendly people both at the reception and in the restaurant, willing to serve.",0.0,False
+581,Facility,Difficulty finding parking,Negative,Negative,Difficulty finding parking.,1.0,True
+581,Room,,,Positive,super clean,0.0,False
+581,Staff,,,Positive,Welcoming by the staff,0.0,False
+594,Check-in,,,Positive,Kindly settled early.,0.0,False
+594,Facility,,,Positive,"There is a cozy courtyard., Parking.",0.0,False
+594,Food,,,Positive,We had a delicious dinner at the hotel restaurant.,0.0,False
+594,Location,"music from nightclubs, such a location, but it is close to the airport.",Negative,Negative,It is also quite noisy at night - you can hear airplanes and music from nightclubs.,0.42536703901846684,False
+594,Location,,,Positive,it is close to the airport.,0.0,False
+594,Room,,,Negative,"Very uncomfortable folding bed, the child at night could not fall asleep with it.",0.0,False
+594,Room,,,Positive,"Newly refurbished, clean and tidy.",0.0,False
+594,Staff,,,Positive,Nice welcoming staff.,0.0,False
+596,Location,Noisy outside,Negative,,,0.0,False
+603,Price,,,Positive,cheap,0.0,False
+603,Room,The quality of the television image quite poor.,Negative,Negative,The quality of the television image quite poor.,1.0000000000000002,True
+603,Room,,,Positive,"very clean, modern room",0.0,False
+613,Room,Not all rooms have a balcony. I did not have it.,Negative,,,0.0,False
+617,Room,Very noisy,Negative,,,0.0,False
+622,Room,we didn't have a balcony.,Negative,,,0.0,False
+623,Location, night traffic in the area.,Negative,Negative,night traffic in the area.,1.0,True
+623,Location,,,Positive,Good location near the airport and the beach.,0.0,False
+623,Room,Noisy air conditioning,Negative,Negative,Noisy air conditioning.,1.0000000000000002,True
+627,Facility,,,Positive,"a stunning hotel, an aesthetic and clean place with innovative and interesting service that you can really request at the push of a button that you won't be able to hear the bell, I have never come across this in my life amazing thank you so much to this hotel.",0.0,False
+627,Location,A bit far from the city center,Negative,Negative,A bit far from the city center.,1.0000000000000002,True
+627,Location,,,Positive,it's a stunning place.,0.0,False
+627,Price,,,Positive,taxis cost us the same price from anywhere in the city so it's not critical.,0.0,False
+627,Staff,,,Positive,"I loved the staff, they always greeted us with a smile, they were really nice, they always responded to the help we needed, they called us a taxi, they didn't charge me again because I lost my room ticket.",0.0,False
+630,Room,Wifi was weak at times.,Negative,Negative,Wifi was weak at times.,1.0000000000000002,True
+630,Staff,,,Positive,Very friendly and helpful Staff.,0.0,False
+644,Location,,,Positive,perfect location (near the airport).,0.0,False
+644,Room,There was no hair dryer,Negative,Negative,There was no hair dryer.,1.0,True
+644,Room,,,Positive,"Very clean, comfortable bed, very comfortable bed, tea and coffee in the room.",0.0,False
+644,Staff,,,Positive,very friendly welcome.,0.0,False
+648,Facility,Maybe the reception needs improvement. It is very old furniture,Negative,Negative,It is very old furniture.,0.6591309955900693,False
+648,Location,,,Positive,leave early the next day from the airport,0.0,False
+648,Staff,,,Negative,Maybe the reception needs improvement.,0.0,False
+648,Staff,,,Positive,Nice staff.,0.0,False
+649,Facility,,,Positive,New hotel.,0.0,False
+649,Location,,,Positive,"The hotel is located near the airport., there was no noise from the street, and the sound from landing / taking off planes did not particularly bother us.",0.0,False
+649,Room,"The room was small, could have been a bit more spacious. ",Negative,Negative,"The room was small, could have been a bit more spacious.",1.0000000000000004,True
+649,Room,,,Positive,"Clean comfortable room., everything was fine and met our expectations.",0.0,False
+649,Staff,,,Positive,Friendly staff.,0.0,False
+655,Location,a bit far from city center.,Negative,Negative,a bit far from city center.,1.0000000000000002,True
+655,Location,,,Positive,The hotel is not far from the airport.,0.0,False
+655,Room,,,Positive,"The room was very well equipped, clean, comfortable.",0.0,False
+655,Staff,,,Positive,Very warm and caring welcome.,0.0,False
+661,Location,Those who sleep lightly will be disturbed by the aircraft noise. ,Negative,,,0.0,False
+661,Location,,,Positive,Proximity to the airport.,0.0,False
+661,Room,,,Negative,Those who sleep lightly will be disturbed by the aircraft noise.,0.0,False
+661,Room,,,Positive,"small but modern rooms, good bed, very good bathroom.",0.0,False
+666,Facility,,,Negative,the organized taxi came too late/ a bit chaotic.,0.0,False
+666,Location,,,Positive,Great location as I arrived very late and just wanted to sleep. Quiet location.,0.0,False
+666,Room,bed a bit uncomfortable.,Negative,Negative,bed a bit uncomfortable.,1.0,True
+666,Staff,,,Positive,very friendly and helpful staff/owners.,0.0,False
+671,Facility,Unfortunately the pool was closed.,Negative,Negative,the pool was closed.,0.7842734117484196,True
+671,Facility,,,Positive,the hotel appears to have been renovated.,0.0,False
+676,Location,There are few shops nearby.,Negative,Negative,There are few shops nearby.,1.0000000000000002,True
+676,Location,,,Positive,"Near the salt lake, about 10 minutes walk, 5-6 minutes to the sea. Quiet place., Near the airport about 4 km, by bus or car for 5-6 minutes, you can walk and walk for 50 minutes)))",0.0,False
+676,Room,,,Negative,"The shower has no door or curtain. While taking a shower, drops fall on the floor., Wi-fi is enough for a phone, not enough for a laptop.",0.0,False
+676,Room,,,Positive,"The room has a refrigerator, kettle, mugs (small), safe (did not use), TV (2 channels in the local language, netflix and browser).",0.0,False
+676,Staff,,,Positive,"Staff SUPER!!! Responsive, kind people, you feel at home).",0.0,False
+679,Room,Lots of noise from the hallway,Negative,Negative,Lots of noise from the hallway.,1.0000000000000002,True
+679,Room,,,Positive,"Superb room, bathroom and balcony, very comfortable.",0.0,False
+679,Staff,,,Positive,the staff was top notch!,0.0,False
+684,Facility,,,Negative,The noise of the discotheque.,0.0,False
+684,Facility,,,Positive,The terrace,0.0,False
+684,Location,The noise of the discotheque…,Negative,,,0.0,False
+684,Staff,,,Positive,the sympathy of the restaurant manager,0.0,False
+690,Location,,,Negative,At 3 o'clock in the morning we woke up from the fact that the garbage truck loaded the tanks.,0.0,False
+690,Location,,,Positive,Very convenient location. Not far from the airport and from the sea.,0.0,False
+690,Room,Very thin walls. ,Negative,Negative,Very thin walls. Everything is heard.,0.7389986773240267,True
+694,Food,,,Negative,Never had such a terrible dinner before.,0.0,False
+694,Location,The area near the hotel is a wasteland,Negative,Negative,The area near the hotel is a wasteland / wasteland. There is nothing.,0.8712415523433825,True
+694,Location,,,Positive,Close to the airport. Quietly we reached 3 stops on the 425 bus.,0.0,False
+694,Price,,,Negative,Tomorrow is quite meager - 8 euros.,0.0,False
+694,Room,"The room is very very small (3 beds at 18 meters), ",Negative,Negative,The room is very very small (3 beds at 18 meters).,1.0000000000000004,True
+694,Room,,,Positive,clean and tidy.,0.0,False
+694,Staff,,,Positive,The hosts are very friendly.,0.0,False
+698,Facility,,,Negative,The electric kettle didn't seem to work.,0.0,False
+698,Location,,,Positive,"The hotel is 10 minutes from the airport which is very convenient for not missing your flight., the hotel is well located for the restaurants in the area.",0.0,False
+698,Room,The electric kettle didn't seem to work.,Negative,,,0.0,False
+698,Staff,,,Positive,The welcome was very warm and efficient.,0.0,False
+702,Food,,,Positive,good cook,0.0,False
+702,Room,room a bit small. ,Negative,Negative,"room a bit small., son of 16 had to sleep on the starter.",0.43426158160306483,False
+702,Staff,,,Positive,Nice staff,0.0,False
+707,Facility,,,Positive,"New hotel, renovated",0.0,False
+707,Room,Small room for a family,Negative,Negative,Small room for a family,1.0,True
+707,Room,,,Positive,soft blankets,0.0,False
+711,Check-out,,,Positive,possibility for late check out,0.0,False
+711,Facility,"Swimming pool , small and dirty",Negative,Negative,"Swimming pool, small and dirty.",1.0,True
+711,Staff,,,Positive,very nice staff,0.0,False
+716,Room,Lack of adapters for sockets in the rooms.,Negative,Negative,Lack of adapters for sockets in the rooms.,1.0000000000000002,True
+716,Room,,,Positive,New and clean rooms.,0.0,False
+716,Staff,,,Positive,"Very pleasant staff., the staff promised to fix it.",0.0,False
+718,Facility,,,Positive,Great place.,0.0,False
+718,Location,,,Positive,Close to Mackenzie beach and salt lake. 10 minutes to the airport by bus or taxi.,0.0,False
+718,Room,No trash can in the room,Negative,Negative,No trash can in the room.,1.0,True
+718,Staff,,,Positive,very nice staff.,0.0,False
+723,Room,There were no TV channels,Negative,Negative,There were no TV channels.,1.0,True
+723,Room,,,Positive,It was simple and beautiful.,0.0,False
