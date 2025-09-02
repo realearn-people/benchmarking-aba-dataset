@@ -10,28 +10,53 @@ We explore how different LLMs (e.g., GPT-4o, Gemini 2.5 Pro, LLaMA 3, Mistral) p
 ```
 benchmarking-aba-dataset/
 ├── Dataset 1/
-│   ├── ABA Dataset - Label Topic (For Tasks 1 & 2).xlsx
-│   ├── Cosine.ipynb
-│   ├── Gpt_dataset1_shot_running.ipynb
 │   ├── Prompt Version 1/
-│   │   ├── GPT_7_shot.ipynb
 │   │   ├── Result-3-shot/
 │   │   ├── Result-4-shot/
 │   │   ├── Result-5-shot/
 │   │   ├── Result-6-shot/
-│   │   └── Result-7-shot/
-│   └── Prompt Version 2/
-│       ├── Sentiment.ipynb
-│       └── Topic.ipynb
+│   │   ├── Result-7-shot/
+│   │   └── GPT_7_shot.ipynb
+│   ├── Prompt Version 2/
+│   │   ├── Result-3-shot/
+│   │   ├── Result-4-shot/
+│   │   ├── Result-5-shot/
+│   │   └── Gpt_dataset1_shot_running.ipynb
+│   ├── ABA Dataset - Label Topic (For Tasks 1 & 2).xlsx
+│   ├── Cosine.ipynb
+│   ├── Sentiment.ipynb
+│   └── Topic.ipynb
 │
 ├── Dataset 2/
 │   ├── Gemini 2.5 Pro/
+│   │   ├── Cosine/
+│   │   ├── Sentiment/
+│   │   ├── Topic Accuracy Result/
+│   │   └── output/
 │   ├── Gpt-4o/
+│   │   ├── Cosine Similarity/
+│   │   ├── Output/
+│   │   ├── Sentiment/
+│   │   └── Topic Match Result/
 │   ├── Llama3/
+│   │   ├── Cosine Similarity/
+│   │   ├── Output/
+│   │   ├── Sentiment/
+│   │   └── Topic Match/
 │   └── Mistral/
+│       ├── Cosine/
+│       ├── Output/
+│       ├── Sentiment/
+│       └── Topic Match/
 │
+├── Gpt-dataset2-shot-running.ipynb
+├── Original ABA Dataset for Version.xlsx
 ├── Remove Disagreement Version(2).xlsx
+├── Evaluation Result for Task1.xlsx
+├── .gitignore
+├── .DS_Store
 └── README.md
+
 ```
 
 ---
